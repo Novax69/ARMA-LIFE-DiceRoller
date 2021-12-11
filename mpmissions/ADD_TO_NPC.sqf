@@ -1,0 +1,2 @@
+this enableSimulation false;  
+this allowDamage false; this addAction["<t color='#ADFF2F'>Jeu de dé</t>",nov_fnc_NovDiceRollerMenu,[0,[nil]],0,FALSE,FALSE,"",' isNull objectParent player && player distance _target < 4 '];

@@ -1,0 +1,17 @@
+<!-- DiceRoller -->
+    <Key ID="STR_NOV_DiceRules">
+        <Original>Lancez les dés, obtenez plus que le Dealer et multiplier votre mise par %1</Original>
+        <French>Lancez les dés, obtenez plus que le Dealer et multiplier votre mise par %1</French>
+    </Key>
+    <Key ID="STR_NOV_Dice_Win">
+        <Original>Félicitation vous avez gagné %1€</Original>
+        <French>Félicitation vous avez gagné %1€</French>
+    </Key>
+    <Key ID="STR_NOV_Dice_Lost">
+        <Original>Dommage vous avez perdu %1€</Original>
+        <French>Dommage vous avez perdu %1€</French>
+    </Key>
+    <Key ID="STR_NOV_Dice_Draw">
+        <Original>Egalité ! vous garder votre mise</Original>
+        <French>Egalité ! vous garder votre mise</French>
+    </Key>
