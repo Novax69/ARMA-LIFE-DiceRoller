@@ -1,4 +1,4 @@
-#include "..\..\NOV_macros.hpp"
+#include "..\..\script_macros.hpp"
 /*
     File: fn_NovDiceRollerMenu.sqf
     Author: Novax
